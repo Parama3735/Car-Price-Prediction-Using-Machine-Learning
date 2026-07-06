@@ -17,8 +17,6 @@ The dataset used is the CarDekho car details dataset.
 
 ## Machine Learning Models
 - Linear Regression
-- Decision Tree Regressor
-- Random Forest Regressor
 
 ## Project Workflow
 1. Data collection
